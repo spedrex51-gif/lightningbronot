@@ -1,4 +1,5 @@
 -- Discord: lightningbronot
+-- Connected Discord-GitHub
 -- Roblox: lightningbronotni
 --!strict
 
